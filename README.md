@@ -1,4 +1,4 @@
-### Traffic Sign Classifier - README
+### Traffic Sign Classifier
 
 #### Overview
 This repository contains a **Traffic Sign Classification System** developed using deep learning. The project utilizes the German Traffic Sign Recognition Benchmark (GTSRB) dataset to train a Convolutional Neural Network (CNN) for classifying traffic signs into 43 distinct categories. This system serves as a stepping stone for intelligent traffic systems and autonomous vehicles, highlighting the potential of machine learning in real-world applications.
