@@ -30,8 +30,8 @@ The GTSRB dataset is available on [Link](https://datasets.activeloop.ai/docs/ml/
    import deeplake
 
    # Load training and testing datasets
-   train = deeplake.load("path/to/train/deeplake-dataset")
-   test = deeplake.load("path/to/test/deeplake-dataset")
+   train = deeplake.load("hub://activeloop/gtsrb-train")
+   test = deeplake.load("hub://activeloop/gtsrb-test")
    ```
 
 DeepLake provides efficient access to large-scale datasets, ensuring seamless integration into machine learning pipelines.
